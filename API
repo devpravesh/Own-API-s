@@ -1,0 +1,16 @@
+[
+{"Sr Number":"1","Order No":"3283","Order Date":"05 Mar 2022","Order Amount":"1559","Shipping Fee":"0","Medica Inv No":"","Medica Inv Date":"","Medica Inv Amount":"","Order Status":"PENDING","Order Remark":""},
+{"Sr Number":"2","Order No":"3284","Order Date":"05 Mar 2022","Order Amount":"4800","Shipping Fee":"0","Medica Inv No":"","Medica Inv Date":"","Medica Inv Amount":"","Order Status":"PENDING","Order Remark":""},
+{"Sr Number":"3","Order No":"3285","Order Date":"05 Mar 2022","Order Amount":"615","Shipping Fee":"0","Medica Inv No":"","Medica Inv Date":"","Medica Inv Amount":"","Order Status":"PENDING","Order Remark":""},
+{"Sr Number":"4","Order No":"3286","Order Date":"05 Mar 2022","Order Amount":"502","Shipping Fee":"25","Medica Inv No":"","Medica Inv Date":"","Medica Inv Amount":"","Order Status":"PENDING","Order Remark":""},
+{"Sr Number":"5","Order No":"3259","Order Date":"04 Mar 2022","Order Amount":"578","Shipping Fee":"0","Medica Inv No":"","Medica Inv Date":"","Medica Inv Amount":"","Order Status":"SHIPPED","Order Remark":""},
+{"Sr Number":"6","Order No":"3261","Order Date":"04 Mar 2022","Order Amount":"614","Shipping Fee":"0","Medica Inv No":"","Medica Inv Date":"","Medica Inv Amount":"","Order Status":"SHIPPED","Order Remark":""},
+{"Sr Number":"7","Order No":"3263","Order Date":"04 Mar 2022","Order Amount":"984","Shipping Fee":"0","Medica Inv No":"","Medica Inv Date":"","Medica Inv Amount":"","Order Status":"SHIPPED","Order Remark":""},
+{"Sr Number":"8","Order No":"3265","Order Date":"04 Mar 2022","Order Amount":"604","Shipping Fee":"0","Medica Inv No":"","Medica Inv Date":"","Medica Inv Amount":"","Order Status":"SHIPPED","Order Remark":""},
+{"Sr Number":"9","Order No":"3267","Order Date":"04 Mar 2022","Order Amount":"1452","Shipping Fee":"0","Medica Inv No":"","Medica Inv Date":"","Medica Inv Amount":"","Order Status":"SHIPPED","Order Remark":""},
+{"Sr Number":"10","Order No":"3268","Order Date":"04 Mar 2022","Order Amount":"341","Shipping Fee":"25","Medica Inv No":"","Medica Inv Date":"","Medica Inv Amount":"","Order Status":"SHIPPED","Order Remark":""},
+{"Sr Number":"11","Order No":"3271","Order Date":"04 Mar 2022","Order Amount":"1530","Shipping Fee":"0","Medica Inv No":"","Medica Inv Date":"","Medica Inv Amount":"","Order Status":"DELIVERED","Order Remark":""},
+{"Sr Number":"12","Order No":"3278","Order Date":"04 Mar 2022","Order Amount":"771","Shipping Fee":"0","Medica Inv No":"","Medica Inv Date":"","Medica Inv Amount":"","Order Status":"PENDING","Order Remark":""},
+{"Sr Number":"13","Order No":"3280","Order Date":"04 Mar 2022","Order Amount":"619","Shipping Fee":"0","Medica Inv No":"","Medica Inv Date":"","Medica Inv Amount":"","Order Status":"PENDING","Order Remark":""},
+{"Sr Number":"14","Order No":"3281","Order Date":"04 Mar 2022","Order Amount":"639","Shipping Fee":"0","Medica Inv No":"","Medica Inv Date":"","Medica Inv Amount":"","Order Status":"PENDING","Order Remark":""}
+]
