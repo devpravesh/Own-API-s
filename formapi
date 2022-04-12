@@ -1,8 +1,13 @@
 {
-  "successfulorders": [
+  "forms": [
     {
       "name": "PU_Form",
       "link": "https://forms.gle/6JZxSRkbuT9LxQQt5",
+      
+    },
+    {
+      "name": "LEADE INFO(SL)",
+      "link": "https://forms.gle/9pconRvMRWgVKZNu9",
       
     },
     ]
