@@ -1,0 +1,81 @@
+{
+  "message": "",
+  "status": "true",
+  "status_code": 200,
+  "data": {
+    "2022-05-02": [
+      {
+        "statusCode": "X-PPOM",
+        "statusText": "Shipment picked up",
+        "statusLocation": "Warehouse - ",
+        "statusTime": "20:47:04"
+      }
+    ],
+    "2022-05-03": [
+      {
+        "statusCode": "X-PIOM",
+        "statusText": "Shipment Recieved at Origin Center",
+        "statusLocation": "Bhiwandi_Mega_GW (Maharashtra)",
+        "statusTime": "00:02:11"
+      },
+      {
+        "statusCode": "X-ILL2F",
+        "statusText": "Shipment Received at Facility",
+        "statusLocation": "Mumbai Hub (Maharashtra)",
+        "statusTime": "06:58:07"
+      },
+      {
+        "statusCode": "X-ILL2F",
+        "statusText": "Shipment Received at Facility",
+        "statusLocation": "Mumbai_OT (Maharashtra)",
+        "statusTime": "10:49:19"
+      },
+      {
+        "statusCode": "X-ILL2F",
+        "statusText": "Shipment Received at Facility",
+        "statusLocation": "Chennai_DT (Tamil Nadu)",
+        "statusTime": "19:12:53"
+      },
+      {
+        "statusCode": "X-ILL2F",
+        "statusText": "Shipment Received at Facility",
+        "statusLocation": "Chennai_Hub (Tamil Nadu)",
+        "statusTime": "20:27:49"
+      },
+      {
+        "statusCode": "X-IBD3F",
+        "statusText": "Shipment Received at Facility",
+        "statusLocation": "Chennai_Hub (Tamil Nadu)",
+        "statusTime": "20:44:39"
+      }
+    ],
+    "2022-05-04": [
+      {
+        "statusCode": "X-ILL2F",
+        "statusText": "Shipment Received at Facility",
+        "statusLocation": "Chennai_Perambur_D (Tamil Nadu)",
+        "statusTime": "05:49:52"
+      },
+      {
+        "statusCode": "X-DDD3FD",
+        "statusText": "Out for delivery",
+        "statusLocation": "Chennai_Perambur_D (Tamil Nadu)",
+        "statusTime": "08:49:04"
+      }
+    ],
+    "2022-05-05": [
+      {
+        "statusCode": "X-DDD3FD",
+        "statusText": "Out for delivery",
+        "statusLocation": "Chennai_Perambur_D (Tamil Nadu)",
+        "statusTime": "08:30:03"
+      },
+      {
+        "statusCode": "EOD-38",
+        "statusText": "Delivered to consignee",
+        "statusLocation": "Chennai_Perambur_D (Tamil Nadu)",
+        "statusTime": "10:34:19"
+      }
+    ]
+  }
+}
