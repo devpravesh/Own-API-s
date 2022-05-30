@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "name": "Bussiness Development",
+      "image": "https://cdn-icons.flaticon.com/png/128/2973/premium/2973778.png?token=exp=1653874855~hmac=92d825c8ed6d218b7ae3ad5d27dc9b15",
+      "id": "1"
+    },
+    {
+      "name": "BPO",
+      "image": "https://cdn-icons-png.flaticon.com/128/4789/4789117.png",
+      "id": "2"
+    },
+    {
+      "name": "GraphicDesigner",
+      "image": "https://cdn-icons-png.flaticon.com/128/2779/2779775.png",
+      "id": "3"
+    },
+    {
+      "name": "Technology",
+      "image": "https://cdn-icons.flaticon.com/png/128/3715/premium/3715323.png?token=exp=1653875092~hmac=ba1bcb981b2d846247dc5a9765e63bb4",
+      "id": "4"
+    },
+    {
+      "name": "Telecaller",
+      "image": "https://cdn-icons-png.flaticon.com/128/4789/4789117.png",
+      "id": "5"
+    }
+  ]
+}
