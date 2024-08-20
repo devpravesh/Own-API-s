@@ -1,19 +1,32 @@
-{
-  "tasks": [
-    {
-      "id": 1,
-      "title": "Buy groceries",
-      "dueDate": "2024-08-20"
-    },
-    {
-      "id": 2,
-      "title": "Complete Flutter project",
-      "dueDate": "2024-08-21"
-    },
-    {
-      "id": 3,
-      "title": "Call the dentist",
-      "isCompleted": true,
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "dueDate": "2024-08-20",
+    "isCompleted": false
+  },
+  {
+    "id": 2,
+    "title": "Complete project report",
+    "dueDate": "2024-08-25",
+    "isCompleted": false
+  },
+  {
+    "id": 3,
+    "title": "Call the dentist",
+    "dueDate": "2024-08-22",
+    "isCompleted": true
+  },
+  {
+    "id": 4,
+    "title": "Schedule car maintenance",
+    "dueDate": "2024-08-28",
+    "isCompleted": false
+  },
+  {
+    "id": 5,
+    "title": "Book flight tickets",
+    "dueDate": "2024-09-01",
+    "isCompleted": false
+  }
+]
